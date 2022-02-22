@@ -2,4 +2,4 @@
 
 
 ## ACK
-https://github.com/google/k8s-digester
+https://github.com/tamalsaha/image-digester-demo
